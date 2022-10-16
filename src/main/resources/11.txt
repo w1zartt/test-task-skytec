@@ -1,0 +1,9 @@
+POST /api/skytec/clan - Создать клан +++++
+POST /api/skytec/user - Создать пользователя+++
+GET /api/skytec/user - Получить пользователя+++
+POST /api/skytec/clan/add-gold-from-user?user-id=5&clan-id=1&sum=1000 - Передать деньги от пользователя к клану
+POST /api/skytec/clan/transfer-gold-to-user?user-id=5&clan-id=1&sum=1000 - Передать деньги клана к пользователю
+-------
+
+
+TODO Exception HANDLER
